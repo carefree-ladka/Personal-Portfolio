@@ -1,0 +1,32 @@
+{
+  "resume": {
+    "name": "Pawan Kumar",
+    "occupation": "Frontend Developer",
+    "biography": "I'm a web developer with over 2 years of experience doing work on HTML, CSS and JavaScript. I love spending my time with new technologies and React.js stuff. I mainly work with React.js and Next.js."
+  },
+
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Personal Portfolio",
+        "image": "/images/project1.PNG",
+        "url": "https://s64kn.csb.app/"
+      },
+      {
+        "title": "React Airline PWA",
+        "image": "/images/React Airline.PNG",
+        "url": "https://ssgnb.csb.app/"
+      },
+      {
+        "title": "Responsive CV",
+        "image": "/images/ResponsiveCV.PNG",
+        "url": "https://fwk8w.csb.app/"
+      }
+    ]
+  },
+  "contact": {
+    "address": "Lucknow",
+    "phone": "798 153 2410",
+    "email": "Vermapawan087@gmail.com"
+  }
+}
